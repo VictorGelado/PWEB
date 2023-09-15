@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+	align-items: center;
+}
+
+textarea {
+	width: 300px;
+	height: 300px;
+}
+
+.center {
+	margin: auto;
+	margin-top: 20px;
+	padding: auto;
+	width: 400px;
+	height: 200px;
+	text-align: center;
+}
+
+.alinhamento {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 15px;
+}
+
+.titulo {
+	width: 300px;
+}
